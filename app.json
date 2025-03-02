@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "DracarysCandle",
+    "slug": "DracarysCandle",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo_trasparente.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/logo_trasparente.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFE5B4"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo_trasparente_icona.png",
+        "backgroundColor": "#FFE5B4"
+      },
+      "package": "com.math00.DracarysCandle"
+    },
+    "web": {
+      "favicon": "./assets/logo_trasparente.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cafee84e-41c7-4392-b971-bee0ece97658"
+      }
+    }
+  }
+}
