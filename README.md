@@ -3,3 +3,7 @@ DracarysCandle is the perfect app for candle-making enthusiasts! It helps you ca
 
 ![Testo alternativo](images/images1.jpg "Images1")
 ![Testo alternativo](images/images2.jpg "Images2")
+
+<img src="images/images1.jpg" alt="Images1" width="500">
+<img src="images/images2.jpg" alt="Images2" width="500">
+
