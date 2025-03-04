@@ -1,4 +1,4 @@
-🕯️ #DracarysCandle
+# 🕯️ DracarysCandle
 
 DracarysCandle is the perfect app for candle-making enthusiasts! 🏺✨ It helps you calculate the right amounts of wax, fragrance, and other ingredients to create perfect homemade candles. Plus, you can save your candle recipes as reminders for future projects. 📜🔥
 
@@ -10,10 +10,10 @@ DracarysCandle is the perfect app for candle-making enthusiasts! 🏺✨ It help
 
 🎯 Features
 
-✅ Ingredient Calculator – Enter the water weight and fragrance percentage to get the exact amount of wax and fragrance needed.
-✅ Save Your Candles – Store your candles with name, date, and ingredient details.
-✅ Recipe Management – Quickly access saved candle formulas and delete them when no longer needed.
-✅ User-Friendly Interface – A clean and simple design that makes calculations and candle management effortless.
+✅ Ingredient Calculator – Enter the water weight and fragrance percentage to get the exact amount of wax and fragrance needed.  
+✅ Save Your Candles – Store your candles with name, date, and ingredient details.  
+✅ Recipe Management – Quickly access saved candle formulas and delete them when no longer needed.  
+✅ User-Friendly Interface – A clean and simple design that makes calculations and candle management effortless.  
 
 📲 How to Use
 
